@@ -16,7 +16,7 @@
     max-width: 80%;
     color: white;
     font-size: 17px;
-    align-self: flex-start;
+    align-self: flex-end;
 }
 
 .remoto{
@@ -26,7 +26,7 @@
     max-width: 80%;
     color: white;
     font-size: 17px;
-    align-self: flex-end; 
+    align-self: flex-start; 
 }
 
 .inputContainer{
