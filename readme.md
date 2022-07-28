@@ -1,7 +1,9 @@
 ng new chatAcngular -> crear proyecto angular
 
-ejecutar estos comandos desde cada carpeta 
+ejecutar estos comandos desde cada carpeta.
+
 chatAngular -> frontend en *angular*
+
 socket -> backend en *node*
 
 # Angular
